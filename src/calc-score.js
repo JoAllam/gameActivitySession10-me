@@ -1,5 +1,5 @@
 
-function calculateScore() {
+export function calculateScore() {
     new Promise(function(resolve, reject) {
         resolve();
     })
